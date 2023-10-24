@@ -1,2 +1,3 @@
 print(1900+5)
-print('My second.')
+print('Champion Galatasaray')
+print('I love You')
